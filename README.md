@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there
+
+
+### :sparkles: **My Stack**
+Languages/Frameworks/Things i use
+
+<img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" height="30px">
+
 
 <!--
 **Hecsall/Hecsall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
