@@ -1,5 +1,5 @@
 ### Hi there
-
+Welcome to my GitHub profile, I'm Simone, a web developer from Italy.
 
 ### :sparkles: **My Stack**
 Languages/Frameworks/Things i use
