@@ -30,7 +30,7 @@ Languages/Frameworks/Things i use
 
 ![Simone's github stats](https://github-readme-stats.vercel.app/api?username=Hecsall&show_icons=true&theme=graywhite)
 
-[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=simonedenadai&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=false&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%233db4f2&background=true&background_color=%23121212)](https://spotiwidget.vercel.app/)
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=simonedenadai&theme=natemoo-re&invert_artist_title=true&cover=true&progress_bar=false&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%23ffffff&background=true&background_color=%23000000)](https://spotiwidget.vercel.app/)
 
 <!--
 **Hecsall/Hecsall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
