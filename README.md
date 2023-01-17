@@ -39,5 +39,5 @@ Languages/Frameworks/Things I use/I've used (in no particular order):
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Hecsall's github stats](https://github-readme-stats-hecsall.vercel.app/api?username=Hecsall&show_icons=true&theme=graywhite#gh-light-mode-only)
-![Hecsall's github stats](https://github-readme-stats-hecsall.vercel.app/api?username=Hecsall&show_icons=true&theme=midnight-purple#gh-dark-mode-only)
+![Hecsall's github stats](https://readme-stats.clckblog.space/api?username=Hecsall&show_icons=true&theme=graywhite#gh-light-mode-only)
+![Hecsall's github stats](https://readme-stats.clckblog.space/api?username=Hecsall&show_icons=true&theme=midnight-purple#gh-dark-mode-only)
