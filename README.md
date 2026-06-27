@@ -7,5 +7,3 @@ Whenever I have free time, I try out new technologies to solve problems or to sa
 
 
 [![SpotiWidget - Reload if you cant see it](https://spotiwidget.vercel.app/widget?uid=simonedenadai&theme=natemoo-re&invert_artist_title=true&cover=true&progress_bar=false&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%23ffffff&background=true&background_color=%23000000)](https://spotiwidget.vercel.app/)
-
-![Hecsall's github stats](https://readme-stats.clckblog.space/api?username=Hecsall&show_icons=true&theme=midnight-purple#gh-dark-mode-only)
